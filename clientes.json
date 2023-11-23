@@ -2,9 +2,9 @@
     {
         "id": 0,
         "nome": "admin",
-        "email": "joao@gmail.com",
+        "email": "admin",
         "fone": "84 99999999",
-        "senha": "17"
+        "senha": "admin"
     },
     {
         "id": 1,
