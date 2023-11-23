@@ -1,0 +1,86 @@
+[
+    {
+        "id": 0,
+        "nome": "admin",
+        "email": "admin",
+        "fone": "0000",
+        "senha": "admin"
+    },
+    {
+        "id": 1,
+        "nome": "Valdo",
+        "email": "valdo@gmail.com",
+        "fone": "84 9111-1200",
+        "senha": "1"
+    },
+    {
+        "id": 2,
+        "nome": "pedro",
+        "email": "pedro@gmail.com",
+        "fone": "84 98121-1200",
+        "senha": "21010010"
+    },
+    {
+        "id": 3,
+        "nome": "Maria dos Santos",
+        "email": "maria@gmail.com",
+        "fone": "84 98121-1200",
+        "senha": "1-2121"
+    },
+    {
+        "id": 4,
+        "nome": "fernanda",
+        "email": "fernanda@gmail.com",
+        "fone": "84 91921-1991",
+        "senha": "121212"
+    },
+    {
+        "id": 5,
+        "nome": "pedro edi",
+        "email": "pedroedi@gmail.com",
+        "fone": "84 19219219",
+        "senha": "12312"
+    },
+    {
+        "id": 6,
+        "nome": "Felipe",
+        "email": "felipe@gmail.com",
+        "fone": "84 91821-1919",
+        "senha": "121213213"
+    },
+    {
+        "id": 7,
+        "nome": "",
+        "email": "",
+        "fone": "",
+        "senha": ""
+    },
+    {
+        "id": 8,
+        "nome": "matequinha amigo",
+        "email": "ns",
+        "fone": "ms",
+        "senha": "ssdf"
+    },
+    {
+        "id": 9,
+        "nome": "ks",
+        "email": "a",
+        "fone": "a",
+        "senha": "a"
+    },
+    {
+        "id": 10,
+        "nome": "kqk",
+        "email": "1m2",
+        "fone": "12",
+        "senha": "12"
+    },
+    {
+        "id": 11,
+        "nome": "kqk",
+        "email": "1m21",
+        "fone": "1221",
+        "senha": "12"
+    }
+]

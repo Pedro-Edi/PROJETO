@@ -1,0 +1,1 @@
+templates .gitignore agendas.json clientes.json IndexUI.py README.md servicos.json views.py
