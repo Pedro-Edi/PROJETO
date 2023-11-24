@@ -17,11 +17,11 @@ class EditarPerfilUI:
                     View.cliente_atualizar(st.session_state["cliente_id"],nome,email,fone,senha)
                     st.success('Perfil atualizado com sucesso')
                     time.sleep(1)
-                    #st.rerun()
+                    st.rerun()
                 except ValueError as erro:
                     st.error(erro)
                     time.sleep(1)
-                    #st.rerun()
+                    st.rerun()
         else:
             email = st.text_input('Informe o novo email')
             fone = st.text_input('Informe o novo fone')
@@ -31,10 +31,10 @@ class EditarPerfilUI:
                     View.cliente_atualizar(st.session_state["cliente_id"],"admin",email,fone,senha)
                     st.success('Perfil atualizado com sucesso')
                     time.sleep(1)
-                    #st.rerun()
+                    st.rerun()
                 except ValueError as erro:
                     st.error(erro)
                     time.sleep(1)
-                    #st.rerun()
+                    st.rerun()
 
                     
